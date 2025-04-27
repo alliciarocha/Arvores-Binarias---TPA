@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app;
+package controller;
 
 import java.util.Random;
-//Ajuste este import para que sua classe de Arvore Binária seja importada
-import lib.ArvoreBinariaExemplo;
-//Aqui estou importando a interface IArvoreBinaria, a mesma que sua classe de Árvore Binaria deve implementar
-import lib.IArvoreBinaria;
+
+import model.Aluno;
+import model.lib.ArvoreBinariaExemplo;
+import model.lib.IArvoreBinaria;
 
 /**
  *

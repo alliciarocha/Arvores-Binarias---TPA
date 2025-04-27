@@ -3,10 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app;
-//Ajuste esse importe para que importe sua classe de Árvore binária
-import lib.ArvoreBinariaExemplo;
-import lib.IArvoreBinaria;
+package view;
+import controller.GeradorDeArvores;
+import model.Aluno;
+import model.ComparadorAlunoPorMatricula;
+import model.ComparadorAlunoPorNome;
+import model.lib.ArvoreBinariaExemplo;
+import model.lib.IArvoreBinaria;
 
 /**
  *

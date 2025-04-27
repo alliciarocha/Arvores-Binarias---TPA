@@ -3,11 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app;
-//Lembre-se de ajustar os imports!!!!!
-import lib.ArvoreAVLExemplo;
-import lib.ArvoreBinariaExemplo;
-import lib.IArvoreBinaria;
+package view;
+import controller.GeradorDeArvores;
+import model.Aluno;
+import model.ComparadorAlunoPorMatricula;
+import model.lib.ArvoreAVLExemplo;
+import model.lib.ArvoreBinariaExemplo;
+import model.lib.IArvoreBinaria;
 
 /**
  *
