@@ -1,0 +1,27 @@
+src/
+├── controller/
+│   └── GeradorDeArvores.java
+│
+├── model/
+│   ├── domain/ ← entidades de negócio
+│   │   ├── Aluno.java
+│   │   ├── Usuario.java
+│   │   └── Livro.java
+│   │
+│   ├── service/ < - serviços 
+│   │   └── Biblioteca.java
+│   │
+│   ├── comparator/  ← comparadores
+│   │   ├── ComparadorAlunoPorMatricula.java
+│   │   └── ComparadorAlunoPorNome.java
+│   │
+│   └── lib/
+│       ├── IArvoreBinaria.java
+│       ├── ArvoreBinaria.java
+│       ├── ArvoreBinariaExemplo.java
+│       ├── ArvoreAVLExemplo.java
+│       └── NoExemplo.java
+│
+└── view/
+    ├── AppRelatorioArvoreBinaria.java
+    └── AppRelatorioAVL.java
