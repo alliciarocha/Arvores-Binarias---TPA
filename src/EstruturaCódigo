@@ -1,4 +1,7 @@
 src/
+├── application/
+│   └── main.java
+│
 ├── controller/
 │   └── GeradorDeArvores.java
 │
