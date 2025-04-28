@@ -1,6 +1,8 @@
-package model;
+package model.comparator;
 
 import java.util.Comparator;
+
+import model.domain.Aluno;
 
 /**
  *

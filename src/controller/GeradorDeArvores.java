@@ -7,7 +7,7 @@ package controller;
 
 import java.util.Random;
 
-import model.Aluno;
+import model.domain.Aluno;
 import model.lib.ArvoreBinariaExemplo;
 import model.lib.IArvoreBinaria;
 

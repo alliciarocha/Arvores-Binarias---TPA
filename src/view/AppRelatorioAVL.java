@@ -5,8 +5,8 @@
  */
 package view;
 import controller.GeradorDeArvores;
-import model.Aluno;
-import model.ComparadorAlunoPorMatricula;
+import model.comparator.ComparadorAlunoPorMatricula;
+import model.domain.Aluno;
 import model.lib.ArvoreAVLExemplo;
 import model.lib.ArvoreBinariaExemplo;
 import model.lib.IArvoreBinaria;
